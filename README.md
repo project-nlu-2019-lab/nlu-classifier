@@ -1,2 +1,2 @@
 # nlu-classifier
-bert classifier with three layers structure
+NLU 意图识别 三级分类任务
